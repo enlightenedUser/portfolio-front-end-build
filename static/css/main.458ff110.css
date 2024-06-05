@@ -23,7 +23,7 @@
   }
 }
 .first-screen-container.container {
-  background-image: url(/static/media/myPhoto.b1ba7dc41a31d06bc684.jpg);
+  background-image: url(../../static/media/myPhoto.b1ba7dc41a31d06bc684.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   padding: 165px 180px 237px;
@@ -234,14 +234,14 @@
   color: var(--white-main);
 }
 .education-section {
-  background-image: url(/static/media/certificates.007d5828067cd87f4e22.png);
+  background-image: url(../../static/media/certificates.007d5828067cd87f4e22.png);
   background-position: 0 104%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 @media (max-width: 1200px) {
   .education-section {
-    background-image: url(/static/media/certificates-mobile.c02c1583f17ff196f3a0.png);
+    background-image: url(../../static/media/certificates-mobile.c02c1583f17ff196f3a0.png);
     background-position: 0 121%;
   }
 }
@@ -556,12 +556,12 @@ h2 {
 @font-face {
   font-family: NeueHaasMedium;
   font-weight: 500;
-  src: url(/static/media/NeueHaasDisplay-Roman.7e7a646f9aff78ddd67e.woff);
+  src: url(../../static/media/NeueHaasDisplay-Roman.7e7a646f9aff78ddd67e.woff);
 }
 @font-face {
   font-family: NeueHaasMediumItalic;
   font-style: italic;
   font-weight: 500;
-  src: url(/static/media/NeueHaasDisplay-RomanItalic.e049985afadc7ef95ed4.woff);
+  src: url(../../static/media/NeueHaasDisplay-RomanItalic.e049985afadc7ef95ed4.woff);
 }
 /*# sourceMappingURL=main.458ff110.css.map*/
